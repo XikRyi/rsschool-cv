@@ -11,9 +11,9 @@
  
  ### **Work experience:** 
  
- Teaching foreign languages 
- Waitress 
- Camp leader
+ * Teaching foreign languages 
+ * Waitress 
+ * Camp leader
  
  ### **Skills:** 
  
