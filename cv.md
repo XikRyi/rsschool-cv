@@ -29,4 +29,4 @@
  * MSLU (English faculty)
  * No IT courses yet
  
- ### Code example:
+
